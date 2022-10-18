@@ -1,0 +1,17 @@
+Fluxo de trabalho local
+
+Trabalhar no código
+git add .
+git commit -m "descrição do commit"
+
+
+*git log -  mostrar os commit existentes no repositório 
+
+
+Fluxo de Trabalho com Repositório Remoto
+
+<git clone> - baixar o projeto na sua máquina
+Trabahar no código 
+git add .
+git commit -m "descrição do commit" 
+git push -u origin main
